@@ -22,14 +22,15 @@ No AI builders or BI tools like Power BI/Tableau were used.
 📌 [Dashboard Codebase → `ecommerce_dashboard_app.py`](ecommerce_dashboard_app.py)
 > The entire dashboard layout, interaction logic, data caching, and export functionality was authored manually in Python.
 🧪 Core Features
-| Module                 | Description                                                                  |
-|------------------------|----------------------------------------------------------------------------- |
-| 🧹 Preprocessing       | Timestamp normalization, session assignment, feature engineering             |
-| 🚦 Funnel Analysis     | Multi-stage user journey from login to purchase via Plotly funnel charts     |
-| 🎯 Recommendation      | Hybrid system: collaborative filtering + co-occurrence matrix                |
-| 🔁 Churn Prediction    | Trained ML models (RF, XGBoost, Neural Net) focused on recall optimization  |
-| 🧠 Anomaly Detection   | Isolation Forest on RFM + spike analysis from login/click activity          |
-| 📈 Dashboard View      | Interactive insights on cluster behavior, churn distribution & more          |
+| 🧩 Module            | 💡 Description                                                                                  |
+| -------------------- | ----------------------------------------------------------------------------------------------- |
+| 🧹 Preprocessing     | Timestamp normalization, session assignment, and advanced feature engineering                   |
+| 🎯 Funnel Analysis   | Multi-stage user journey from login to purchase, visualized with Plotly funnel charts           |
+| 🤝 Recommendation    | Hybrid recommendation system using collaborative filtering and co-occurrence matrix             |
+| 📘 Churn Prediction  | Trained ML models (Random Forest, XGBoost, Neural Network) with a focus on recall optimization  |
+| 🧠 Anomaly Detection | Isolation Forest applied on RFM and spike detection in login/click activity                     |
+| 📊 Dashboard View    | Fully custom dashboard with visual insights on clusters, churn behavior, and event distribution |
+
 
 🔍 **Derived from Real-World References**
 This project was guided by insights from the following sources:
