@@ -55,6 +55,7 @@ This project was guided by insights from the following sources:
 - Automate model retraining using CI/CD pipelines (GitHub Actions)
 
 📬 **Contact**
+
 Pavan Kumar Nallabothula
 
 📧 [nallabothulapavan05@gmail.com](mailto:nallabothulapavan05@gmail.com)  
