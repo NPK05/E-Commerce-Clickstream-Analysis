@@ -31,6 +31,7 @@ No AI builders or BI tools like Power BI/Tableau were used.
 
 🔍 **Derived from Real-World References**
 This project was guided by insights from the following sources:
+
 📚 Books:
 - Data Science for Business by Foster Provost & Tom Fawcett
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
