@@ -6,6 +6,9 @@ A full-stack data science project to analyze user behavior on an e-commerce plat
 📂 Dataset
 The dataset is sourced from [Kaggle's E-Commerce Dataset](https://www.kaggle.com/datasets/mervemenekse/ecommerce-dataset).  
 It contains transactional clickstream logs like login, product view, cart addition, and purchase.
+
+---
+
 ## 🧠 Strategy and Business Mapping
 Business logic (e.g., churn tagging, loyalty classification, win-back targeting) was derived from the `Marketing_Action` Excel file provided. We:
 - Mapped action labels like "Win-Back", "At-Risk", and "Loyal" to churn status
@@ -18,7 +21,6 @@ No AI builders or BI tools like Power BI/Tableau were used.
 - Streamlit for frontend layout
 - Plotly & Seaborn for visuals
 - Pandas for data manipulation
-
 📌 [Dashboard Codebase → `ecommerce_dashboard_app.py`](ecommerce_dashboard_app.py)
 > The entire dashboard layout, interaction logic, data caching, and export functionality was authored manually in Python.
 🧪 Core Features
@@ -29,30 +31,35 @@ No AI builders or BI tools like Power BI/Tableau were used.
 - **Anomaly Detection**: Applied Isolation Forest on RFM and behavioral features
 - **Dashboard View**: Dynamic dashboard for visual interaction, product discovery, and user cohort tracking
 
+---
+
 🔍 **Derived from Real-World References**
 This project was guided by insights from the following sources:
 
-📚 Books:
+📚 **Books**:
 - Data Science for Business by Foster Provost & Tom Fawcett
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
 - Storytelling with Data by Cole Nussbaumer Knaflic
 
-🧠Bogs / Code Inspiration:
+🧠**Bogs / Code Inspiration**:
 - Top-rated Kaggle notebooks on churn, funnel analytics, and product recommendation
 - Real-world e-commerce ML blog posts from Towards Data Science and Analytics Vidhya
 
-🤖 Content Assistance & Structuring:
+🤖 **Content Assistance & Structuring**:
 - GPT-4 was used to:
   - Polish markdown formatting
   - Generate meaningful symbol usage
   - Improve code readability and simplify variable naming
   - Suggest structure for documentation and funnel flow
-  
-💡 Future Enhancements
+
+  ---
+💡 **Future Enhancements**
 - Deploy dashboard to Heroku or Streamlit Cloud
 - Add A/B testing logic for retention strategies
 - Integrate product metadata for hybrid content + behavior-based recommendation
 - Automate model retraining using CI/CD pipelines (GitHub Actions)
+
+---
 
 📬 **Contact**
 
