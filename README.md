@@ -38,7 +38,7 @@ This project was guided by insights from the following sources:
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
 - Storytelling with Data by Cole Nussbaumer Knaflic
 
-🧠** Bogs / Code Inspiration:**
+🧠Bogs / Code Inspiration:
 - Top-rated Kaggle notebooks on churn, funnel analytics, and product recommendation
 - Real-world e-commerce ML blog posts from Towards Data Science and Analytics Vidhya
 
