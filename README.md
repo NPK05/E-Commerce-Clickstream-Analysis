@@ -22,15 +22,12 @@ No AI builders or BI tools like Power BI/Tableau were used.
 📌 [Dashboard Codebase → `ecommerce_dashboard_app.py`](ecommerce_dashboard_app.py)
 > The entire dashboard layout, interaction logic, data caching, and export functionality was authored manually in Python.
 🧪 Core Features
-| 🧩 Module            | 💡 Description                                                                                  |
-| -------------------- | ----------------------------------------------------------------------------------------------- |
-| 🧹 Preprocessing     | Timestamp normalization, session assignment, and advanced feature engineering                   |
-| 🎯 Funnel Analysis   | Multi-stage user journey from login to purchase, visualized with Plotly funnel charts           |
-| 🤝 Recommendation    | Hybrid recommendation system using collaborative filtering and co-occurrence matrix             |
-| 📘 Churn Prediction  | Trained ML models (Random Forest, XGBoost, Neural Network) with a focus on recall optimization  |
-| 🧠 Anomaly Detection | Isolation Forest applied on RFM and spike detection in login/click activity                     |
-| 📊 Dashboard View    | Fully custom dashboard with visual insights on clusters, churn behavior, and event distribution |
-
+- **Preprocessing**: Timestamp parsing, session allocation, and feature generation
+- **Funnel Analysis**: Visual breakdown of multi-stage user flow (login → cart → purchase)
+- **Recommendation System**: Product-level interaction-based suggestions using co-occurrence analysis
+- **Churn Prediction**: Trained ML models (Random Forest, XGBoost, Neural Net) focused on recall optimization
+- **Anomaly Detection**: Applied Isolation Forest on RFM and behavioral features
+- **Dashboard View**: Dynamic dashboard for visual interaction, product discovery, and user cohort tracking
 
 🔍 **Derived from Real-World References**
 This project was guided by insights from the following sources:
