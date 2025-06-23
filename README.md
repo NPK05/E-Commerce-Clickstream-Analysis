@@ -49,7 +49,7 @@ This project was guided by insights from the following sources:
   - Suggest structure for documentation and funnel flow
   
 💡 Future Enhancements
-- Deploy dashboard to Heroku** or Streamlit Cloud
+- Deploy dashboard to Heroku or Streamlit Cloud
 - Add A/B testing logic for retention strategies
 - Integrate product metadata for hybrid content + behavior-based recommendation
 - Automate model retraining using CI/CD pipelines (GitHub Actions)
