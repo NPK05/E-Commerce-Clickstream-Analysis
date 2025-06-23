@@ -56,7 +56,10 @@ This project was guided by insights from the following sources:
 
 📬 **Contact**
 Pavan Kumar Nallabothula
+
 📧 [nallabothulapavan05@gmail.com](mailto:nallabothulapavan05@gmail.com)  
+
 🔗 [LinkedIn](https://www.linkedin.com/in/pavan-kumar-nallabothula)
+
 
 > ⚠️ All work—data cleaning, modeling, analysis, dashboarding, and visualizations—was built manually from the ground up. No third-party visualization tools or low-code AI builders were used. External content was only used for reference and inspiration.
